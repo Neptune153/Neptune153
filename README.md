@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 
+ 
+&nbsp; 
 
-<!--
-**Neptune153/Neptune153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## COURSES
+- **新生实践课**
+[repository](https://github.com/Neptune153/html)
+&nbsp; 
 
-Here are some ideas to get you started:
+- **数据结构实验**
+[repository](https://github.com/Neptune153/HUST_DataStructure_Labs)
+&nbsp; 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **数据结构课设**
+[repository](https://github.com/Neptune153/HUST_DataStructure_Project)
+&nbsp; 
+
+- **C++实验**
+[repository](https://github.com/Neptune153/HUST_CPP_Labs)
+&nbsp; 
+
+- **数电实验**
+[repository](https://github.com/Neptune153/HUST_Digital_Circuit_Experiments)
+&nbsp; 
+
+
+
+
+ 
+[**Back to Top**](#top)
