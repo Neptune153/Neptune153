@@ -3,8 +3,8 @@
 &nbsp; 
 
 ## COURSES
-- **HTML_lab**
-[repository](https://github.com/Neptune153/html)
+- **HUST_HTML_lab**
+[repository](https://github.com/Neptune153/HUST_HTML_lab)
 &nbsp; 
 
 - **HUST_DataStructure_Labs**
