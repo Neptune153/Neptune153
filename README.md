@@ -27,5 +27,5 @@
 [repository](https://github.com/Neptune153/HUST_Computer-System-Basic-Experiments) 
 &nbsp; 
 
-- **HUST_Computer_Compose_Principle_Experiment 机组实验**
+- **HUST_Computer_Compose_Principle_Experiment 计组实验**
 [repository](https://github.com/Neptune153/HUST_Computer_Compose_Principle_Experiments)
