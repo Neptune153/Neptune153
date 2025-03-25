@@ -3,9 +3,6 @@
 &nbsp; 
 
 ## COURSES
-- **HUST_HTML_lab 新生实践课**
-[repository](https://github.com/Neptune153/HUST_HTML_lab)
-&nbsp; 
 
 - **HUST_DataStructure_Labs 数据结构实验**
 [repository](https://github.com/Neptune153/HUST_DataStructure_Labs)
