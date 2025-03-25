@@ -26,3 +26,6 @@
 
 - **HUST_Computer_Compose_Principle_Experiment 计组实验**
 [repository](https://github.com/Neptune153/HUST_Computer_Compose_Principle_Experiments)
+
+- **HUST_Verilog_Labs Verilog实验**
+[repository](https://github.com/Neptune153/HUST_Verilog_Labs)
